@@ -1,0 +1,13 @@
+# Ignore node dependencies
+node_modules/
+
+# Ignore system or editor junk
+.DS_Store
+.env
+.vscode/
+.idea/
+
+# Logs and temp files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
